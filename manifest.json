@@ -1,0 +1,15 @@
+{
+  "name": "Coleta de Eletrônicos",
+  "short_name": "Coleta",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffc107",
+  "theme_color": "#ffc107",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8094/8094829.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
